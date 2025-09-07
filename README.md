@@ -1,3 +1,18 @@
+# FactsPulse is an interactive web application where users can discover trending facts across multiple categories such as Technology, History, Science, Finance, Health, Society, Entertainment, and News.
+
+🔍 Browse facts by category
+
+👍 Vote facts as Interesting, Mind-blowing, or Disputed
+
+📝 Contribute by sharing your own fact (up to 200 words with source link)
+
+📈 Facts are ranked based on votes to highlight the most engaging content
+
+The goal of FactsPulse is to create a community-driven platform for sharing knowledge in a fun and engaging way.
+
+# 👉 Visit here: https://factshub-factpulse.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
